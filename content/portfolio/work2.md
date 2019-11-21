@@ -1,6 +1,6 @@
 ---
 date: "2016-11-05T19:41:01+05:30"
-title: "Name of the work 2"
+title: "Maan knaap"
 draft: false
 image: "portfolio/fantasy-4566021_640.jpg"
 showonlyimage: false
